@@ -18,8 +18,8 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: "data-driven-world", // Usually your GitHub org/user name.
-  projectName: "2023", // Usually your repo name.
+  organizationName: "100sonly", // Usually your GitHub org/user name.
+  projectName: "2023ddw", // Usually your repo name.
 
   presets: [
     [
