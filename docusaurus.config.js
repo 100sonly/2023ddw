@@ -10,8 +10,8 @@ const katex = require("rehype-katex");
 const config = {
   title: "Data Driven World 🌏",
   tagline: "The best way to learn programming is to write programs",
-  url: "https://100sonly.github.io",
-  baseUrl: "/2023ddw/",
+  url: "https://hongmong.github.io",
+  baseUrl: "/burger/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
